@@ -1,0 +1,33 @@
+/* styles.css */
+
+* {
+  font-family: DM Sans, Bowlby One;
+}
+
+h1 {
+  font-family: Bowlby One;
+  font-weight: 70;
+  font-size: 35px;
+}
+
+h2 {
+  font-family: Bowlby One;
+  font-weight: 70;
+  font-size: 25px;
+}
+
+h3 {
+  font-family: Bowlby One;
+  font-weight: 70;
+  font-size: 20px;
+}
+
+p {
+  font-family: DM Sans;
+  font-size: 17px;
+}
+
+li {
+  font-family: DM Sans;
+  font-size: 17px;
+}
